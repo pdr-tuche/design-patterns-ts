@@ -1,3 +1,8 @@
 import { indexFactoryPattern } from "./factory-pattern/index"
+import { indexOberverPattern } from "./observer-pattern/index"
 
-indexFactoryPattern()
+// console.log("** ** factory pattern ** **")
+// indexFactoryPattern()
+
+// console.log("** ** observer pattern ** **")
+// indexOberverPattern()
