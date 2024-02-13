@@ -2,7 +2,7 @@ import { indexFactoryPattern } from "./factory-pattern/index"
 import { indexOberverPattern } from "./observer-pattern/index"
 import { indexTemplateMethodPattern } from "./template-method-pattern/index"
 import { indexSingletonPattern } from "./singleton-pattern/index"
-
+import { indexCompositePattern } from "./composite-pattern/index"
 // console.log("** ** factory pattern ** **")
 // indexFactoryPattern()
 
@@ -14,3 +14,6 @@ import { indexSingletonPattern } from "./singleton-pattern/index"
 
 // console.log("** ** singleton pattern ** **")
 // indexSingletonPattern()
+
+// console.log("** ** composite pattern ** **")
+// indexCompositePattern()
