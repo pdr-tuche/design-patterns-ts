@@ -4,6 +4,7 @@ import { indexTemplateMethodPattern } from "./template-method-pattern/index"
 import { indexSingletonPattern } from "./singleton-pattern/index"
 import { indexCompositePattern } from "./composite-pattern/index"
 import { indexBuilderPattern } from "./builder-pattern"
+import { indexPrototypePattern } from "./prototype-pattern/index"
 // console.log("** ** factory pattern ** **")
 // indexFactoryPattern()
 
@@ -21,3 +22,6 @@ import { indexBuilderPattern } from "./builder-pattern"
 
 // console.log("** ** builder pattern ** **")
 // indexBuilderPattern()
+
+// console.log("** ** prototype pattern ** **")
+// indexPrototypePattern()
