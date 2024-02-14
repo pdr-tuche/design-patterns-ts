@@ -5,6 +5,7 @@ import { indexSingletonPattern } from "./singleton-pattern/index"
 import { indexCompositePattern } from "./composite-pattern/index"
 import { indexBuilderPattern } from "./builder-pattern"
 import { indexPrototypePattern } from "./prototype-pattern/index"
+import { indexAdapterPattern } from "./adapter-pattern"
 // console.log("** ** factory pattern ** **")
 // indexFactoryPattern()
 
@@ -25,3 +26,6 @@ import { indexPrototypePattern } from "./prototype-pattern/index"
 
 // console.log("** ** prototype pattern ** **")
 // indexPrototypePattern()
+
+// console.log("** ** adapter pattern ** **")
+// indexAdapterPattern()
